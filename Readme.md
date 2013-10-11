@@ -3,6 +3,8 @@
 
   Backbone models as a discrete component, with sync stripped out. 
 
+  This has been run against the official Backbone test suite and passes all tests.
+
 ## Installation
 
   Install with [component(1)](http://component.io):
