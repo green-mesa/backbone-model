@@ -2,7 +2,7 @@
   "name": "backbone-model",
   "repo": "green-mesa/backbone-model",
   "description": "Backbone models",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "keywords": [],
   "dependencies": {
     "components/underscore" : "1.4.4",
