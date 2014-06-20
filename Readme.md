@@ -7,6 +7,10 @@
 
 ## Installation
 
+  Install with [npm(1)](http://npmjs.org):
+
+    $ npm install --save backbone-model
+
   Install with [component(1)](http://component.io):
 
     $ component install green-mesa/backbone-model
