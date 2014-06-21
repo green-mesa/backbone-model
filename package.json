@@ -6,12 +6,15 @@
   "author"        : "Jeremy Ashkenas <jeremy@documentcloud.org>",
   "dependencies"  : {
     "underscore"  : "1.4.4",
-    "backbone-events-standalone" : "0.2.1",
+    "green-mesa-backbone-events" : "1.0.2",
     "backbone-helpers" : "1.0.2"
   },
   "main"          : "index.js",
-  "version"       : "1.0.4",
+  "version"       : "1.0.6",
   "license"       : "MIT",
+  "browser" : {
+    "backbone-events" : "green-mesa-backbone-events"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/green-mesa/backbone-model.git"
