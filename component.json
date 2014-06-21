@@ -15,5 +15,7 @@
   "scripts": [
     "index.js"
   ],
-  "remotes": []
+  "remotes": [
+    "https://raw.githubusercontent.com"
+  ]
 }
