@@ -7,10 +7,10 @@
   "dependencies"  : {
     "underscore"  : "1.4.4",
     "backbone-events-standalone" : "0.2.1",
-    "backbone-helpers" : "1.0.0"
+    "backbone-helpers" : "1.0.2"
   },
   "main"          : "index.js",
-  "version"       : "1.0.2",
+  "version"       : "1.0.4",
   "license"       : "MIT",
   "repository": {
     "type": "git",
