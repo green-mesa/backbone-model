@@ -5,7 +5,7 @@
   "keywords"      : ["backbone", "model", "client", "browser"],
   "author"        : "Jeremy Ashkenas <jeremy@documentcloud.org>",
   "dependencies"  : {
-    "underscore"  : "1.4.4",
+    "underscore"  : "1.8.3",
     "green-mesa-backbone-events" : "1.0.2",
     "backbone-helpers" : "1.0.2"
   },
