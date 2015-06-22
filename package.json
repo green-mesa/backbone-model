@@ -6,11 +6,11 @@
   "author"        : "Jeremy Ashkenas <jeremy@documentcloud.org>",
   "dependencies"  : {
     "underscore"  : "1.8.3",
-    "green-mesa-backbone-events" : "1.0.2",
-    "backbone-helpers" : "1.0.2"
+    "green-mesa-backbone-events" : "1.0.6",
+    "backbone-helpers" : "1.0.6"
   },
   "main"          : "index.js",
-  "version"       : "1.0.8",
+  "version"       : "1.0.9",
   "license"       : "MIT",
   "browser" : {
     "backbone-events" : "green-mesa-backbone-events"
