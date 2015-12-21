@@ -17,7 +17,7 @@
   // is automatically generated and assigned for you.
 
 var _ = require('underscore');
-var Events = require('backbone-events').Events;
+var Events = require('green-mesa-backbone-events').Events;
 
 var urlError = require('backbone-helpers').urlError;
 var wrapError = require('backbone-helpers').wrapError;

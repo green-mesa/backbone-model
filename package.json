@@ -17,9 +17,6 @@
   "main": "index.js",
   "version": "1.0.9",
   "license": "MIT",
-  "browser": {
-    "backbone-events": "green-mesa-backbone-events"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/green-mesa/backbone-model.git"
