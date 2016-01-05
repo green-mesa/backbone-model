@@ -15,7 +15,7 @@
     "backbone-helpers": "1.0.6"
   },
   "main": "index.js",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "license": "MIT",
   "repository": {
     "type": "git",
